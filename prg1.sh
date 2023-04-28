@@ -15,4 +15,4 @@ echo -n "Enter Your password:"
 read -s pass
 echo "The given password is $pass"
 #End of the shell script
-
+#accessed
